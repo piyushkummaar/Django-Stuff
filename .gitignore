@@ -1,0 +1,8 @@
+.env
+env/
+__pycahce__/*
+migrations/
+__pycahce__/
+db.sqlite3
+
+
